@@ -5,8 +5,7 @@ export const siteConfig = {
   accentColor: "#1c7fff",
   social: {
     email: "andrewchan6717@gmail.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
+    linkedin: "www.linkedin.com/in/andrew-chan-3ba365421",
     github: "https://github.com/pandatheman",
   },
   aboutMe:
