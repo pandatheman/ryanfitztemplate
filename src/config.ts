@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Andrew Chan",
   title: "Sophmore Student",
   description: "Portfolio website of Andrew Chan",
-  accentColor: "#0061a1",
+  accentColor: "#19df3a",
   social: {
     email: "andrewchan6717@gmail.com",
     linkedin: "https://linkedin.com/in/yourprofile",
