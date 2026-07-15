@@ -5,19 +5,18 @@ export const siteConfig = {
   accentColor: "#1c7fff",
   social: {
     email: "andrewchan6717@gmail.com",
-    linkedin: "https://www.linkedin.com/in/andrew-chan-3ba365421",
     github: "https://github.com/pandatheman",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I am an aspiring software engineer who enjoys building projects and learning new technologies. I am motivated to improve my skills and am looking for opportunities to grow through internships and future careers.",
+  skills: ["Git", "GitHub", "Canva", "VS Code"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Personal Portfolio Website",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+        "Designed and developed a responsive personal portfolio website to showcase my projects, technical skills, resume, and contact information. Customized the site's layout and content using Astro, HTML, CSS, JavaScript, Git, and GitHub.",
       link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["GitHub", "VS Code", "Git"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
